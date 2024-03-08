@@ -1,1 +1,8 @@
 /* your code */
+table, th, td {
+  border: 1px solid black;
+}
+tr:nth-child(odd) {
+  background-color: #D6EEEE;
+}
+
